@@ -16,7 +16,7 @@
 ---
 
 ## Стек
-Python · SQL · Airflow · Docker · PostgreSQL · MongoDB
+Python · SQL · Airflow · Docker · PostgreSQL · MongoDB · NoSQL · Vertica
 
 ---
 
