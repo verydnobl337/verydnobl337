@@ -1,34 +1,27 @@
-# Hi, I'm Daniil 👋
+# Hi there 👋
 
-### Data Engineer
+**My name is Daniil.**
+**Data Engineer** focused on building reliable data pipelines, data warehouses, and scalable data processing systems.
 
-Разрабатываю ETL-пайплайны и системы хранения данных (DWH), превращая сырые данные в структуру для аналитики и бизнеса.
+### **Primary Skills:**
 
----
+* **Programming:** Python, SQL
+* **Data Engineering:** ETL/ELT, Apache Airflow, Apache Spark, Apache Kafka
+* **Databases:** PostgreSQL, Vertica, MongoDB
+* **Storage & Architecture:** DWH, Data Lake, S3, OLTP, OLAP
+* **Infrastructure:** Docker, Kubernetes, Yandex Cloud
+* **Tools:** Git, GitHub
 
-## Направление
-- Проектирование ETL-пайплайнов  
-- Построение хранилищ данных (DWH) на PostgreSQL  
-- Архитектура Data Lake  
-- Развёртывание инфраструктуры  
-- Обработка данных в режиме реального времени  
+### **Projects:**
 
----
+* **Fintech Data Platform** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica
+* **Streaming Data Pipeline** — real-time data processing with Python and Apache Kafka
+* **E-commerce Data Platform** — end-to-end ETL pipeline and DWH
+* **API Data Pipeline** — automated data ingestion from external APIs
+* **Data Lake** — automated data ingestion and processing
 
-## Стек
-Python · SQL · Airflow · Docker · PostgreSQL · MongoDB · NoSQL · Vertica
+### **Contact and Links:**
 
----
-
-## Проекты
-- ETL-пайплайн для внешнего API (система загрузки данных)  
-- OLTP-база данных для системы автопродаж  
-- Реляционная база данных для сети ресторанов  
-- Сквозной ETL-пайплайн для e-commerce проекта  
-- Хранилище данных для аналитики мессенджера  
-- Data Lake с автоматической загрузкой и обработкой данных  
-
----
-
-## Цель
-Развиваться в сфере инженерии данных и разрабатывать надёжные, масштабируемые системы обработки данных в продуктовой компании.
+* **Email:** [verydnob@mail.ru](mailto:verydnob@mail.ru)
+* **Telegram:** [@verydnob](https://t.me/verydnob)
+* **WhatsApp:** [Contact me](https://wa.me/79186739935)
