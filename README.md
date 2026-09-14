@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Data Engineering
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 * **[Fintech Data Platform](https://github.com/verydnobl337/s3-airflow-vertica)** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica.
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 📫 Contact and Links
+## Contact and Links
 
 * **Email:** [verydnob@mail.ru](mailto:verydnob@mail.ru)
 * **Telegram:** [@verydnob](https://t.me/verydnob)
