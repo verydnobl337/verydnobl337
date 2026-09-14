@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=verydnobl337&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verydnobl337&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📫 Contact and Links
 
 * **Email:** [verydnob@mail.ru](mailto:verydnob@mail.ru)
