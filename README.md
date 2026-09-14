@@ -11,7 +11,7 @@
 ### Programming & Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,kafka" />
+  <img src="https://skillicons.dev/icons?i=py,kafka" />
 </p>
 
 **Python · SQL · ETL/ELT · Apache Airflow · Apache Spark · PySpark · Apache Kafka**
@@ -25,6 +25,10 @@
 **PostgreSQL · Vertica · MongoDB · Redis · S3 · HDFS · DWH · Data Lake · Data Vault · OLTP · OLAP**
 
 ### Big Data & Infrastructure
+
+<p> 
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" /> 
+</p>
 
 **Hadoop · YARN · Parquet · Avro · Docker · Kubernetes · Yandex Cloud**
 
