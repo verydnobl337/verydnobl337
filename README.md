@@ -11,7 +11,7 @@
 ### Programming & Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,kafka,spark" />
+  <img src="https://skillicons.dev/icons?i=python,airflow,spark,kafka" />
 </p>
 
 **Python · SQL · ETL/ELT · Apache Airflow · Apache Spark · PySpark · Apache Kafka**
