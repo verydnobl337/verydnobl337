@@ -15,10 +15,8 @@
 ### **Projects:**
 
 * **Fintech Data Platform** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica
-* **Streaming Data Pipeline** — real-time data processing with Python and Apache Kafka
-* **E-commerce Data Platform** — end-to-end ETL pipeline and DWH
-* **API Data Pipeline** — automated data ingestion from external APIs
-* **Data Lake** — automated data ingestion and processing
+* **Cloud Data Platform** — Kafka, Redis, PostgreSQL pipeline with Data Vault and incremental data processing.
+* **Spark Geo Analytics** — Spark and Airflow pipeline for geospatial analytics and recommendation processing.
 
 ### **Contact and Links:**
 
