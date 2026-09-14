@@ -6,9 +6,10 @@
 ### **Primary Skills:**
 
 * **Programming:** Python, SQL
-* **Data Engineering:** ETL/ELT, Apache Airflow, Apache Spark, Apache Kafka
-* **Databases:** PostgreSQL, Vertica, MongoDB
-* **Storage & Architecture:** DWH, Data Lake, S3, OLTP, OLAP
+* **Data Engineering:** ETL/ELT, Apache Airflow, Apache Spark, PySpark, Apache Kafka
+* **Databases:** PostgreSQL, Vertica, MongoDB, Redis
+* **Storage & Architecture:** DWH, Data Lake, S3, HDFS, Data Vault, OLTP, OLAP
+* **Big Data:** Hadoop, YARN, Parquet, Avro
 * **Infrastructure:** Docker, Kubernetes, Yandex Cloud
 * **Tools:** Git, GitHub
 
