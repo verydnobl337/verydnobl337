@@ -44,11 +44,13 @@
 
 ## Projects
 
-* **[Fintech Data Platform](https://github.com/verydnobl337/s3-airflow-vertica)** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica.
+* **[Fintech Data Platform](https://github.com/verydnobl337/s3-airflow-vertica)** - ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica.
 
-* **[Cloud Data Platform](https://github.com/verydnobl337/cloud-technologies)** — Kafka, Redis, PostgreSQL pipeline with Data Vault and incremental data processing.
+* **[Cloud Data Platform](https://github.com/verydnobl337/cloud-technologies)** - Kafka, Redis, PostgreSQL pipeline with Data Vault and incremental data processing.
 
-* **[Spark Geo Analytics](https://github.com/verydnobl337/spark-project)** — Spark and Airflow pipeline for geospatial analytics and recommendation processing.
+* **[Spark Geo Analytics](https://github.com/verydnobl337/spark-project)** - Spark and Airflow pipeline for geospatial analytics and recommendation processing.
+
+* **[Spark Streaming Pipeline](https://github.com/verydnobl337/spark-streaming-project)** - Streaming data processing project using PySpark, Kafka, and PostgreSQL for personalized promotions.
 
 ---
 
