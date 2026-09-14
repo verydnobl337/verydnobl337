@@ -1,25 +1,63 @@
 # Hi there 👋
 
-**My name is Daniil.**
+## I'm Daniil
+
 **Data Engineer** focused on building reliable data pipelines, data warehouses, and scalable data processing systems.
 
-### **Primary Skills:**
+---
 
-* **Programming:** Python, SQL
-* **Data Engineering:** ETL/ELT, Apache Airflow, Apache Spark, PySpark, Apache Kafka
-* **Databases:** PostgreSQL, Vertica, MongoDB, Redis
-* **Storage & Architecture:** DWH, Data Lake, S3, HDFS, Data Vault, OLTP, OLAP
-* **Big Data:** Hadoop, YARN, Parquet, Avro
-* **Infrastructure:** Docker, Kubernetes, Yandex Cloud
-* **Tools:** Git, GitHub
+## 🛠️ Tech Stack
 
-### **Projects:**
+### Programming & Data Engineering
 
-* **Fintech Data Platform** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica
-* **Cloud Data Platform** — Kafka, Redis, PostgreSQL pipeline with Data Vault and incremental data processing.
-* **Spark Geo Analytics** — Spark and Airflow pipeline for geospatial analytics and recommendation processing.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,kafka,spark" />
+</p>
 
-### **Contact and Links:**
+**Python · SQL · ETL/ELT · Apache Airflow · Apache Spark · PySpark · Apache Kafka**
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+**PostgreSQL · Vertica · MongoDB · Redis · S3 · HDFS · DWH · Data Lake · Data Vault · OLTP · OLAP**
+
+### Big Data & Infrastructure
+
+**Hadoop · YARN · Parquet · Avro · Docker · Kubernetes · Yandex Cloud**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+**Git · GitHub**
+
+---
+
+## 🚀 Projects
+
+* **[Fintech Data Platform](https://github.com/verydnobl337/s3-airflow-vertica)** — ETL/ELT pipeline with Airflow, S3, PostgreSQL and Vertica.
+
+* **[Cloud Data Platform](https://github.com/verydnobl337/cloud-technologies)** — Kafka, Redis, PostgreSQL pipeline with Data Vault and incremental data processing.
+
+* **[Spark Geo Analytics](https://github.com/verydnobl337/spark-project)** — Spark and Airflow pipeline for geospatial analytics and recommendation processing.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=verydnobl337&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verydnobl337&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📫 Contact and Links
 
 * **Email:** [verydnob@mail.ru](mailto:verydnob@mail.ru)
 * **Telegram:** [@verydnob](https://t.me/verydnob)
