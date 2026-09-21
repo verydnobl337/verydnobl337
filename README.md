@@ -51,6 +51,7 @@
 * **[Spark Geo Analytics](https://github.com/verydnobl337/spark-project)** - Spark and Airflow pipeline for geospatial analytics and recommendation processing.
 
 * **[Spark Streaming Pipeline](https://github.com/verydnobl337/spark-streaming-project)** - Streaming data processing project using PySpark, Kafka, and PostgreSQL for personalized promotions.
+* **[Analytical Data Warehouse](https://github.com/verydnobl337/analytical-dwh)** - an end-to-end data engineering project that implements a data pipeline from S3 through Apache Airflow to Vertica DWH.
 
 ---
 
